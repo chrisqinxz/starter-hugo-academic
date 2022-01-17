@@ -18,13 +18,12 @@ organizations:
   url: "https://www.ericsson.com/en"
 
 # Short bio (displayed in user profile at end of posts)
-
-bio: My research interests include wireless communciation and signal processing.
+# bio: My research interests include wireless communciation and signal processing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Underwater acoustics 
+- Wireless communciations 
+- Machine learning 
 
 education:
   courses:
@@ -37,18 +36,45 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-    
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:chrisqinxz@gmail.com
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/leewujung
+# - icon: home
+#   icon_pack: fas
+#   link: https://apl.uw.edu/people/profile.php?last_name=Lee&first_name=Wu-Jung
+# - icon: igloo
+#   icon_pack: fas
+#   link: https://leewujung.github.io/
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/chrisqinxz
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: []
 ---
 
-We are a diverse group of researchers whose work centers around extracting knowledge from large volumes of ocean acoustic data, which contain rich information about animals ranging from zooplankton, fish, to marine mammals. Integrating physics-based models and data-driven methods, our current work focuses on mining [water column sonar data](https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f) and spans a broad spectrum from developing computational methods, building open source software and cloud applications, to joint analysis of acoustic observations and ocean environmental variables. A parallel but closely related focus of our research involves using [echolocating bats and toothed whales](https://www.nationalgeographic.com/animals/article/echolocation-is-nature-built-in-sonar-here-is-how-it-works) as biological model systemss for adaptive and distributed ocean sensing. 
+I'm a researcher in the area of wireless communication and signal processing.
+My research focuses on how to use Bayesian theory to improve the capability of
+signal detection and estimation process that will determine the KPI of wireless
+communication. Recently, I made efforts in the exploration of Bayesian-driven
+deep learning methodologies to standardize the 5G's architecture from baseband
+receiver design to radio digital pre-distortion (DPD). I'm also self-motivated
+to pioneer the potential technologies that will contribute to 6G.
 
-### Research areas:
-- Acoustical oceanography
-- Machine learning in ocean acoustics
-- Fisheries acoustics
-- Animal echolocation / bioacoustics
-- Data systems and workflows
-- Data science in oceanography
+
