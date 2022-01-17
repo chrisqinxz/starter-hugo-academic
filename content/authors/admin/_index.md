@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Echospace
+title: Xiangzhao Chris Qin 
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Applied Physics Lab & eScience Institute
+role: Algorithm Developer 
 
 # Organizations/Affiliations
 organizations:
-- name: University of Washington
-  url: ""
+- name: Ericsson AB, Sweden 
+  url: "https://www.ericsson.com/en"
 
 # Short bio (displayed in user profile at end of posts)
 
+bio: My research interests include wireless communciation and signal processing.
+
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
+
+education:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
+    
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: []
